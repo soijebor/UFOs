@@ -9,7 +9,7 @@
   * Create, populate, and dynamically filter a table using JavaScript and HTML.
   
 ## Resources
-  * Data Source: static/js/app.js
+  * Data Source: data.js
   * Software: Visual Studio Code, 1.46.1, Google Chrome v.84
   
 ## Challenge Overview
@@ -22,4 +22,4 @@ I created a custom webpage of UFO's sightings around the world which include fil
 
 
 ## Recommendation
-I will recommend a future analysis is done using other rows from the table like duration to filter the table as well as 
+I will recommend to look into adding a filter for duration and also create a basic plot for future development
