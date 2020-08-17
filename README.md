@@ -24,4 +24,4 @@
 I created a custom webpage of UFO's sightings around the world which include filters such as date, city, state, country and shape to make the webpage more user friendly.
 
 ## Recommendation
-My recommendation is  to look into adding a filter for duration and comment for future development. Also adding various plots for each filter.
+My recommendation is  to look into adding a filter for duration and comment for future development. Also adding various plots for each filter to better visualize the data.
