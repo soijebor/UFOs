@@ -11,6 +11,7 @@
 ## Resources
   * Data Source: data.js
   * Software: Visual Studio Code, 1.46.1, Google Chrome v.84
+  * Technologies: JavaScript, HTML, CSS
   
 ## Challenge Overview
   * Create, update, and deploy JavaScript functions to provide additional table filters.
