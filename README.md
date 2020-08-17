@@ -1,5 +1,7 @@
 # UFOs
 
+![image](https://github.com/soijebor/UFOs/blob/master/static/images/5filters.png)
+
 ## Project Overview
   * Explain the strengths and weaknesses of JavaScript “standard” and JavaScript version ES6+. 
   * Describe JavaScript syntax and ideal use cases. 
@@ -21,7 +23,5 @@
 ## Summary
 I created a custom webpage of UFO's sightings around the world which include filters such as date, city, state, country and shape to make the webpage more user friendly.
 
-![image](https://github.com/soijebor/UFOs/blob/master/static/images/5filters.png)
-
 ## Recommendation
-I will recommend to look into adding a filter for duration and also create a basic plot for future development
+My recommendation is  to look into adding a filter for duration and comment for future development. Also adding various plots for each filter.
